@@ -68,7 +68,7 @@ def temp_monthly():
     session.close()
     return jsonify(temps)
 
-# Temp data range page
+# Temp data range page - /api/v1.0/temp/2017-06-01/2017-06-30
 @app.route("/api/v1.0/temp/<start>/<end>")
 def stats(start, end):
     session = Session(engine)
