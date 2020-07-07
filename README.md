@@ -1,4 +1,4 @@
-# surfs_up
+# Hawaii Weather Analysis
 
 ## O'ahu June Weather Analysis
 ![June Stats and Histograms](https://github.com/Calistic/surfs_up/blob/master/Pictures/June1.PNG)
