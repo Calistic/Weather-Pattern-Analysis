@@ -15,7 +15,7 @@ On average it rains more in December than in June, but only by 0.08in.
 - The average precipitation is higher in December (0.22in) than in June (0.14in) by 0.08in.
 - The maximum precipitation is higher in December (6.42in) than in June (4.43in) by 1.99in.
 
-## Reccomendations for Furth Analysis
+## Reccomendations for Further Analysis
 - O'ahu is a large island with several coastal towns and mountainous regions. Weather stations from the mountains are likley skewing our data. It would be better to only use data from the nearest weather stations.
 
 - It would be good to gather data on where the tourists live. Tourist are more likely to rent surf boards, so we want to place our shop near them.
