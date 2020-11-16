@@ -1,12 +1,7 @@
 # Hawaii Weather Analysis
 
-## O'ahu June Weather Analysis
-![June Stats and Histograms](https://github.com/Calistic/surfs_up/blob/master/Pictures/June1.PNG)
-![December Box Plot](https://github.com/Calistic/surfs_up/blob/master/Pictures/June2.PNG)
-
-## O'ahu December Weather Analysis
-![December Stats and Histograms](https://github.com/Calistic/surfs_up/blob/master/Pictures/December1.PNG)
-![December Box Plot](https://github.com/Calistic/surfs_up/blob/master/Pictures/December2.PNG)
+## Purpose
+Manipulate Python dataframes, containing weather data, to determine if O'ahu is a good location to open a surf shop. 
 
 ## Differences between June and December Weather
 Temperature: 
@@ -28,3 +23,13 @@ On average it rains more in December than in June, but only by 0.08in.
 - It would be good to gather data on where the best places to surf are. This way we can place our shop near the best waves.
 
 - We should gather data on how good our customers will be at surfing, are they beginners/professionals? This would allow us to better decide where to place our shop. We wouldn't want beginners tackling 30ft waves.
+
+## O'ahu June Weather Analysis
+![June Stats and Histograms](https://github.com/Calistic/surfs_up/blob/master/Pictures/June1.PNG)
+![December Box Plot](https://github.com/Calistic/surfs_up/blob/master/Pictures/June2.PNG)
+
+## O'ahu December Weather Analysis
+![December Stats and Histograms](https://github.com/Calistic/surfs_up/blob/master/Pictures/December1.PNG)
+![December Box Plot](https://github.com/Calistic/surfs_up/blob/master/Pictures/December2.PNG)
+
+
