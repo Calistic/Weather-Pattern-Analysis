@@ -1,7 +1,9 @@
 # Hawaii Weather Analysis
 
 ## Purpose
-Manipulate Python dataframes, containing weather data, to determine if O'ahu is a good location to open a surf shop. 
+Manipulate Python dataframes, containing weather data, to determine if O'ahu is a good location to open a surf shop.
+- Use SQLalchemy with pandas to query data from a SQLite database
+- Use Flask to showcase results
 
 ## Differences between June and December Weather
 Temperature: 
